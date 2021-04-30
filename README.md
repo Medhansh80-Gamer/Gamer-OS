@@ -1,4 +1,4 @@
-# Gamer-OS
+# Gamer OS
  
 The upcoming Linux OS. Made for true gamers.
 
